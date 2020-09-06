@@ -1,27 +1,15 @@
-.comments {
-    margin: 20px 0;
-    border: 1px solid #464646;
-    padding: 20px;
-    background: #3a3b3c;
-    border-radius: 25px;
-}
 
 .comment {
     text-align: center;
     text-decoration: underline;
 }
 
-.comments p {
+.commentHead {
     font-size: 17px !important;
-    font-weight: 500;
-    margin: 0;
     letter-spacing: .5px;
-    padding-left: 75px;
     padding-top: 2px;
 }
 
-.comments h3 {
+.commentBody {
     font-size: 0.9375rem;
-    font-weight: 300;
-    margin-bottom: 0;
 }
