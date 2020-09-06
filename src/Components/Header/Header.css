@@ -1,0 +1,17 @@
+.header-name {
+    text-align: center;
+    padding: 100px;
+    font-size: 35px;
+    font-weight: 700;
+    margin: 0;
+}
+
+.header-name a {
+    color: #fff;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.header-name a:hover {
+    text-decoration: underline;
+}

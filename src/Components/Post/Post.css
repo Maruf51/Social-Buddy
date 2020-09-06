@@ -1,0 +1,23 @@
+.posts {
+    border: 1px solid #313131;
+    border-radius: 10px;
+    margin: 20px auto;
+    padding: 20px;
+    width: 60%;
+    background: #242526;
+}
+
+.detailsButton a {
+    color: white;
+    text-decoration: none;
+}
+
+.posts h2 {
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+
+.posts p {
+    font-size: 0.9375rem;
+}

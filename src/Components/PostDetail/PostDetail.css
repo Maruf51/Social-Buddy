@@ -1,0 +1,23 @@
+.post-detail {
+    border: 1px solid #313131;
+    border-radius: 10px;
+    margin: 20px auto;
+    padding: 20px;
+    width: 60%;
+    background: #242526;
+}
+
+.post-detail h2 {
+    font-size: 20px;
+    text-transform: capitalize;
+    font-weight: 700;
+}
+
+.post-detail p {
+    font-size: 15px;
+}
+
+.postDetail {
+    padding-bottom: 50px;
+    border-bottom: 1px solid lightgray;
+}
